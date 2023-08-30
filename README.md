@@ -1,3 +1,3 @@
-# module-1-challenge
+# Horiseon Challenge
 
-Repository for coding boot camp module 1 challenge
+This repository refactors given code for a
