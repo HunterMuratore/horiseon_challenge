@@ -49,14 +49,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
-article {
-    font-size: 16px;
-}
-
 /* Background image of the webpage */
 .hero {
     height: 800px;
@@ -131,6 +123,10 @@ article {
     max-width: 150px;
 }
 
+article {
+    font-size: 16px;
+}
+
 .footer {
     padding: 30px;
     clear: both;
@@ -140,4 +136,8 @@ article {
 
 .footer h4 {
     font-size: 20px;
+}
+
+p {
+    font-size: 16px;
 }
